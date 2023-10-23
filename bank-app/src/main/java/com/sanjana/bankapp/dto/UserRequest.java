@@ -12,8 +12,6 @@ import lombok.NoArgsConstructor;
 import lombok.Setter;
 @Data
 @Builder
-@Getter
-@Setter
 @AllArgsConstructor
 @NoArgsConstructor
 public class UserRequest {
